@@ -1,0 +1,84 @@
+.left-side-container
+{
+    width: 100%;
+    height: 100vh;
+    border-right: 1px solid gray;
+    float: left;
+}
+.start-learning
+{
+    width: 97%;
+    height: 400px;
+    margin-top: 30px;
+    margin-left: 60px;
+}
+.start-learning h1
+{
+    font-size: 30px;
+    font-weight: 200;
+}
+.course
+{
+    margin-top: 10px;
+    width: 19%;
+    height: 260px;
+    margin-left: 10px;
+    border: 1px solid gray;
+    border-radius: 20px;
+    float: left;
+    margin-right: 70px;
+}
+.course img
+{
+    width: 150px;
+    height: 150px;
+    margin-left: 23%;
+    margin-top: 3%;
+}
+.course h2
+{
+    font-size: 20px;
+    font-weight: 100;
+    text-align: center;
+    margin-top: 16px;
+
+
+}
+.details-btn
+{
+    position: absolute;
+    width: 10%;
+    height: 45px;
+    border-radius: 0px 0px 0px 20px;
+    background: rgb(237, 238, 238);
+    margin-top: -14px;
+    float: left;
+    border-right:1px solid gray ;
+}
+.details-btn h5
+{
+    cursor: pointer;
+    font-size: 15px;
+    font-weight: 100;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 55px;
+}
+.start-btn
+{
+    float: right;
+    width: 50%;
+    height: 45px;
+    border-radius: 0px 0px 20px 0px;
+    margin-top: -14px;
+    background: rgb(237, 238, 238);
+}
+.start-btn h5
+{
+    cursor: pointer;
+    font-size: 15px;
+    font-weight: 100;
+    position: absolute;
+    margin-top: 8px;
+    margin-left: 55px;
+}
